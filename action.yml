@@ -1,0 +1,8 @@
+name: Code Quality Checker
+description: Automated code quality and security scanning
+runs:
+  using: 'node16'
+  main: 'index.js'
+branding:
+  color: 'yellow'
+  icon: 'zap'
